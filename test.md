@@ -8,9 +8,9 @@ The exercise asks you to transform a given linear programming (LP) problem into 
 Let's break down each step and form, providing the path to the solution. But first, let’s rewrite the LP in its current form:
 
 ### Given LP in General Form:
-$\
+\[
 \text{minimize } x_1 - 2x_2 - 3x_3
-]$
+\]  
 Subject to:
 \[
 \begin{aligned}
