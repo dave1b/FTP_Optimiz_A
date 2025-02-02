@@ -1,0 +1,9 @@
+In the field of optimization, a heuristic is a technique designed for solving a problem quicker than classic methods, or for finding an approximate solution when classic methods fail to find any exact solution. This is achieved by trading optimality, completeness, accuracy, or precision for speed. In a way, a heuristic is a decision-making strategy or rule of thumb that helps to simplify and streamline the decision-making process.
+
+Typically, heuristics do not guarantee optimal or perfect solutions; however, they are often effective in tackling complex problems that do not have an exact computational solution, or in cases where the methods yielding exact solutions are too costly or time-consuming.
+
+Metaheuristics, on the other hand, are higher-level heuristics designed to find, generate, or select a heuristic that may provide a sufficiently good solution to an optimization problem, especially with incomplete or imperfect information or limited computation capacity. Metaheuristics are strategies that guide the search process. They provide a general guideline, a set of concepts, and strategies reused in heuristic optimization. 
+
+Metaheuristic algorithms are approximate and usually non-deterministic and their concepts have been inspired by various natural and social phenomena such as evolution (Genetic Algorithm), the behavior of ant colonies (Ant Colony Optimization Algorithm), bird flocking (Particle Swarm Optimization), annealing process (Simulated Annealing), etc.
+
+Both heuristics and metaheuristics are broadly used in optimization tasks, including those related to artificial intelligence, operations research, and machine learning.
